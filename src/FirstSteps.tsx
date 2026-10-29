@@ -21,7 +21,7 @@ const itemsInCart: itemInCart[] = [
   },
 ];
 
-const [, firstElement] = itemsInCart;
+//const [, firstElement] = itemsInCart;
 
 export function FirstSteps() {
   return (
